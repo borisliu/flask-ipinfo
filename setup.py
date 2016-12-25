@@ -3,7 +3,7 @@ Flask-IPInfo
 -------------
 
 This library get some useful information from flask's request object.Such as 
-IP Address, ISP, Location, Browser, OS, etc.
+IP Address, ISP, Location, Web Browser, Operating System, etc.
 """
 from setuptools import setup
 
