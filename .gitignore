@@ -3,3 +3,4 @@
 *.pyo
 docs/_build
 dist
+venv
