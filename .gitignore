@@ -4,3 +4,5 @@
 docs/_build
 dist
 venv
+build
+Flask_IPInfo.egg-info
