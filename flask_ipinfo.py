@@ -3,7 +3,7 @@ import urllib
 import json
 from flask import request
 
-__version__  = '0.0.4'
+__version__  = '0.0.5'
 __author__ = "borisliu"
 
 
