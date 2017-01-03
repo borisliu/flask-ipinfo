@@ -1,5 +1,5 @@
 Flask-IPInfo
-======
+============
 
 This library get some useful information from flask's request object.Such as 
 IP Address, ISP, Location, Web Browser, Operating System, etc.
@@ -10,7 +10,7 @@ Example
 ::
 
     from flask import Flask
-    from flask_ipinfo import IPInfo
+    from flask_ipinfo import IPInfop
 
     app = Flask(__name__)
     ipinfo = IPInfo()
